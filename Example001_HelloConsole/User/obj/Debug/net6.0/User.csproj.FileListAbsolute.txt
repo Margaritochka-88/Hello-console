@@ -1,0 +1,15 @@
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.csproj.AssemblyReference.cache
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.AssemblyInfoInputs.cache
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.AssemblyInfo.cs
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.csproj.CoreCompileInputs.cache
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/bin/Debug/net6.0/User
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/bin/Debug/net6.0/User.deps.json
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/bin/Debug/net6.0/User.runtimeconfig.json
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/bin/Debug/net6.0/User.dll
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/bin/Debug/net6.0/User.pdb
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.dll
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/refint/User.dll
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.pdb
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/User.genruntimeconfig.cache
+/Users/margaritakrylova/Desktop/Examples/Example001_HelloConsole/User/obj/Debug/net6.0/ref/User.dll
